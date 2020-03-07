@@ -1,0 +1,56 @@
+.custom-center{
+	text-align: center;
+}
+
+.custom-padding{
+	padding: 100px 0;
+}
+
+.custom-background{
+    background-color: #37517E;
+}
+
+.custom-background-2{
+	background-color: #F1F5F7;
+}
+/* navbar style start */
+
+.custom-nav-menu{
+    color: white;
+    margin: 0 15px;
+}
+
+.custom-nav-menu:hover{
+    color: #47B2E4;
+}
+/* navbar style end */
+
+/* header style start */
+
+
+.banner-img{
+    overflow: hidden;
+}
+/* header style end */
+
+/*global support design start*/
+
+/*global support design end*/
+
+.price{
+	background-color: #F1F5F7;
+}
+
+
+/*footer design start*/
+footer{
+	color: white;
+	padding-top: 100px;
+}
+
+.footer-bottom{
+	border-top: 1px solid white;
+	margin-top: 50px;
+	padding: 10px 0;
+}
+/*footer design end*/
